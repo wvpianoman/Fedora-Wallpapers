@@ -1,2 +1,2 @@
 # Fedora-Wallpapers
- Fedora Wallpaper Collection
+ A collection of Fedora Wallpapers that I've found
